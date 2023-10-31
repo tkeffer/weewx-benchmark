@@ -1,0 +1,14 @@
+*~
+\#*
+.DS_Store
+*.pyc
+__pycache__
+*.egg-info
+.venv
+venv
+
+# Exclude all of the JetBrains .idea directory
+.idea
+
+# Exclude the generated HTML files
+public_html
